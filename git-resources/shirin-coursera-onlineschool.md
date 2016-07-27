@@ -1,0 +1,3 @@
+## Coursera
+
+[Coursera](https://www.coursera.org) is a website offering various online courses, and many of them are on scietific computing and programming; these courses are usually offered by different universities. There are also several course specilizations such as series of courses in [data science specialization](https://www.coursera.org/specializations/jhu-data-science), [machine learning](https://www.coursera.org/specializations/machine-learning), and also [machine learning-Stanford](https://www.coursera.org/learn/machine-learning), and [Python programming](https://www.coursera.org/specializations/python).
