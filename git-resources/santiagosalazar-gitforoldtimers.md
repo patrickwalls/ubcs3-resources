@@ -1,0 +1,2 @@
+# Git Software for Windows
+[Download Git software](https://git-scm.com/downloads). Although Jupyter hub may be the next best thing since sliced bread, some users of github may prefer to use software install on their laptop or home computer. This website provides software to use git either inline in a command prompt in Windows, or provides a convenient GUI. For linux users this is normally a non issue as git can be installed through the terminal. 
